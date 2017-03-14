@@ -1,3 +1,8 @@
+PNG PLAYER
+@date: 02/11/2017
+@author: Robert J Paul
+@purpose: Create a pong player capable of learning, and even beating, rivial human player
+
 
 runner.py
 	- Setup the required parameters and start Simulation.
@@ -6,7 +11,7 @@ Simulator
 	- The broad tasks of the Simulator are to train the agent and then test it on a real game.
 	- During the training phase, the agent must learn the optimal parameters to ensure as many bounces as possible.
 	- Training will be done over a certain number of games so you must modular code that allows you to reuse the same code game over game.
-	- For testing, use the parameters learnt on an actualy pong game. Keep playing till the agent loses and track the bounces.
+	- For testing, we'll use the parameters learnt on an actual pong game. Keep playing till the agent loses and track the bounces.
 
 MDP
 	- Sets up the Markov Decision Process that includes states, actions, (refer to the documentation for more details).
