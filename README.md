@@ -1,8 +1,13 @@
-PNG PLAYER
+PONG PLAYER
+######################################
+
 @date: 02/11/2017
+
 @author: Robert J Paul
+
 @purpose: Create a pong player capable of learning, and even beating, rivial human player
 
+######################################
 
 runner.py
 	- Setup the required parameters and start Simulation.
